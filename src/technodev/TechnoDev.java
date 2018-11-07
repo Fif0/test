@@ -54,7 +54,6 @@ public class TechnoDev extends JFrame{
     
     public TechnoDev(){
         initFrame();
-        initContent();
     }
     
     public static void main(String args[]) {
