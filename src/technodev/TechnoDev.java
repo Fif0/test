@@ -51,7 +51,7 @@ import org.netbeans.lib.awtextra.AbsoluteLayout;
 
 public class TechnoDev extends JFrame{
     int saas = 0;
-    
+    float asdsa;
     public TechnoDev(){
         initFrame();
         initContent();
