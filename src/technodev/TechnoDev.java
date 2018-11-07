@@ -53,6 +53,8 @@ public class TechnoDev extends JFrame{
     int saas = 0;
     float asdsa;
     ///asvsavsafsa
+    
+    //asfsaf
     public TechnoDev(){
         initFrame();
         initContent();
